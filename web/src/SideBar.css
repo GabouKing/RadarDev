@@ -57,6 +57,6 @@ aside form button[type="submit"]{
     color: #FFF;
     cursor: pointer;
 }
-aside form button[type="submit"]{
+aside form button[type="submit"]:hover{
     background: #6931ca ;
 }
