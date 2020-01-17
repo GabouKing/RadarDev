@@ -1,6 +1,6 @@
 import React from 'react';
 import './style.css'
-function DevItem(dev){
+function DevItem({dev}){
     return(
     <li className="dev-item">
     <header>
